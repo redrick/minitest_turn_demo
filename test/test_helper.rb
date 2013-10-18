@@ -14,3 +14,5 @@ class MiniTest::Spec
     load "#{Rails.root}/db/seeds.rb" 
   end
 end
+
+Turn.config.format = :outline

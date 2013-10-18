@@ -49,4 +49,5 @@ group :test do
   gem 'minitest-rails'
   gem 'minitest-rails-capybara'
   gem 'minitest-ci'
+  gem 'turn'
 end
