@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time='0.152536' skipped='0' failures='0' errors='7' name='PostsControllerTest' assertions='0' tests='7'>
+  <testcase time='0.149749' name='test_should_create_post' assertions='0'>
+    <failure type='NoMethodError' message="undefined method `posts&#39; for #&lt;PostsControllerTest:0x007f963c332140&gt;">test/controllers/posts_controller_test.rb:5:in `block in &lt;class:PostsControllerTest&gt;&#39;
+    </failure>
+  </testcase>
+  <testcase time='0.000616' name='test_should_destroy_post' assertions='0'>
+    <failure type='NoMethodError' message="undefined method `posts&#39; for #&lt;PostsControllerTest:0x007f963a396318&gt;">test/controllers/posts_controller_test.rb:5:in `block in &lt;class:PostsControllerTest&gt;&#39;
+    </failure>
+  </testcase>
+  <testcase time='0.000449' name='test_should_get_edit' assertions='0'>
+    <failure type='NoMethodError' message="undefined method `posts&#39; for #&lt;PostsControllerTest:0x007f963a3cd598&gt;">test/controllers/posts_controller_test.rb:5:in `block in &lt;class:PostsControllerTest&gt;&#39;
+    </failure>
+  </testcase>
+  <testcase time='0.000425' name='test_should_get_index' assertions='0'>
+    <failure type='NoMethodError' message="undefined method `posts&#39; for #&lt;PostsControllerTest:0x007f963a40dff8&gt;">test/controllers/posts_controller_test.rb:5:in `block in &lt;class:PostsControllerTest&gt;&#39;
+    </failure>
+  </testcase>
+  <testcase time='0.000396' name='test_should_get_new' assertions='0'>
+    <failure type='NoMethodError' message="undefined method `posts&#39; for #&lt;PostsControllerTest:0x007f963c7defb8&gt;">test/controllers/posts_controller_test.rb:5:in `block in &lt;class:PostsControllerTest&gt;&#39;
+    </failure>
+  </testcase>
+  <testcase time='0.000384' name='test_should_show_post' assertions='0'>
+    <failure type='NoMethodError' message="undefined method `posts&#39; for #&lt;PostsControllerTest:0x007f963e808bb8&gt;">test/controllers/posts_controller_test.rb:5:in `block in &lt;class:PostsControllerTest&gt;&#39;
+    </failure>
+  </testcase>
+  <testcase time='0.000517' name='test_should_update_post' assertions='0'>
+    <failure type='NoMethodError' message="undefined method `posts&#39; for #&lt;PostsControllerTest:0x007f963e839ad8&gt;">test/controllers/posts_controller_test.rb:5:in `block in &lt;class:PostsControllerTest&gt;&#39;
+    </failure>
+  </testcase>
+</testsuite>
